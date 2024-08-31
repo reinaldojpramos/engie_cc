@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "powerplant-coding-challenge"
+version = "0.1.0"
+description = "Powerplant Coding Challenge"
+authors = ["Reinaldo Ramos"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+flask = "^3.0.3"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
