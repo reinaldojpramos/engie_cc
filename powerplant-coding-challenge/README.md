@@ -10,15 +10,26 @@ This project provides a REST API to calculate and allocate power production to m
 powerplant_challenge/ 
 ├── api/ 
 │ └── v1/ 
+│ │ └── init.py
+│ │ └── routes.py
 │ └── init.py 
-│ └── production_plan.py 
+│ └── routes.py 
 ├── tests/ 
+│ └── test_data/
+│ │ └── test_correct_payload.json
+│ │ └── test_error_payload.json
 │ ├── init.py 
-│ ├── test_production_plan.py 
+│ ├── test_api.py 
+├── utils/ 
+│ └── init.py
+│ └── cost_utils.py
+│ └── math_utils.py
 ├── .env 
-├── app.py 
-├── pyproject.toml 
+├── app.py
+├── docker-compose.yml
+├── Dockerfile
 ├── poetry.lock 
+├── pyproject.toml 
 └── README.md
 ```
 
