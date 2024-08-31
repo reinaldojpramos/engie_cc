@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e06bae-7ce3-4c0c-a75d-ad3fadc63ff3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/engie_cc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/api/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/api/v1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/api/v1/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/poetry.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/tests/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/tests/test_data/test_correct_payload.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/tests/test_data/test_error_payload.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/utils/cost_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/powerplant-coding-challenge/utils/math_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;reinaldojpramos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:reinaldojpramos/engie_cc.git&quot;,
+    &quot;accountId&quot;: &quot;6a571eef-ae79-45da-8a13-17479ed1db01&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -55,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Docker.powerplant-coding-challenge.powerplant-coding-challenge: Compose Deployment.executor": "Run",
-    "Docker.powerplant-coding-challenge/Dockerfile.executor": "Run",
-    "Docker.powerplant-coding-challenge: Compose Deployment.executor": "Run",
-    "Python tests.Python tests for test_api.PowerPlantDispatchTestCase.executor": "Run",
-    "Python tests.Python tests for test_api.PowerPlantDispatchTestCase.test_dispatch_correct_response.executor": "Run",
-    "Python tests.Python tests for test_api.PowerPlantDispatchTestCase.test_dispatch_load_not_met.executor": "Run",
-    "Python tests.Python tests for test_api.ProductionPlanTestCase.executor": "Run",
-    "Python tests.Python tests for test_api.ProductionPlanTestCase.test_dispatch_error_response.executor": "Run",
-    "Python tests.Python tests in test_api.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.powerplant-coding-challenge.powerplant-coding-challenge: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.powerplant-coding-challenge/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.powerplant-coding-challenge: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_api.PowerPlantDispatchTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_api.PowerPlantDispatchTestCase.test_dispatch_correct_response.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_api.PowerPlantDispatchTestCase.test_dispatch_load_not_met.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_api.ProductionPlanTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_api.ProductionPlanTestCase.test_dispatch_error_response.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_api.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/powerplant-coding-challenge" />
@@ -84,7 +72,9 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
       <method v="2" />
     </configuration>
     <configuration name="powerplant-coding-challenge: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
